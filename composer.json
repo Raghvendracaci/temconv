@@ -1,0 +1,15 @@
+{
+    "name": "raghav/temconv",
+    "authors": [
+        {
+            "name": "Raghav"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "Raghav\\Tempconv\\": "src"
+        }
+    }
+}
